@@ -9,3 +9,4 @@ This is a simple meme sharing application. In this app we are making use of API 
     • Constraint Layout: Most of the activities use a flexible constraint layout, which is easy to handle for different screen sizes.
     • Buttons: Use of interactive buttons made it easier for the people to share and calling other meme on the screen.
     • Progress Bar Loader: Use of progress bar loader makes it more interactive and helps to style our app.
+ ![Screenshot (64)](https://user-images.githubusercontent.com/95122024/226427075-a97c1f2d-763c-4267-bce6-8a758e1db2e9.png)
